@@ -1,4 +1,1 @@
-import sys
-import os
-
-x = 5
+print("Hello world")
